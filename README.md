@@ -37,6 +37,16 @@ In the initial data preparation phase, we performed the following tasks:
 - **Microsoft Excel:** Supporting spreadsheet analysis and data handling.
 - **MySQL:** Running queries and extracting relevant data and as needed.
 
+## SQL Techniques Demonstrated
+
+|---:|---:|
+| SELECT / WHERE | Retrieve fields and filter rows by conditions |
+| LIKE / DISTINCT | Match email patterns and list unique values |
+| ORDER BY / LIMIT Sort | Records and retrieve top results |
+| COUNT / AVG / GROUP BY | Summarize totals, averages, and category counts |
+| HAVING | Filter grouped results after aggregation |
+| Subqueries / IN | Compare records to calculated results or sets |
+| RANK() OVER | Rank records within each institution |
 
 ## Conclusion
 
