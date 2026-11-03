@@ -39,7 +39,8 @@ In the initial data preparation phase, we performed the following tasks:
 
 ## SQL Techniques Demonstrated
 
-|---:|---:|
+| SQL COMMANDS | DESCRIPTION |
+|---|---|
 | SELECT / WHERE | Retrieve fields and filter rows by conditions |
 | LIKE / DISTINCT | Match email patterns and list unique values |
 | ORDER BY / LIMIT Sort | Records and retrieve top results |
